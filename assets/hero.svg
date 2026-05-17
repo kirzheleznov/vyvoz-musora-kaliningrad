@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-label="Иллюстрация: самосвал с контейнером">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f4b8e"/>
+      <stop offset="1" stop-color="#14305b"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="540" rx="16" fill="url(#sky)"/>
+  <circle cx="580" cy="120" r="60" fill="#f08a1d" opacity=".35"/>
+  <rect x="0" y="410" width="720" height="130" fill="#0f2547"/>
+
+  <!-- Контейнер -->
+  <g>
+    <path d="M120 250 L360 250 L335 400 L150 400 Z" fill="#f08a1d"/>
+    <path d="M120 250 L360 250 L355 270 L125 270 Z" fill="#ffb05a"/>
+    <line x1="180" y1="255" x2="170" y2="395" stroke="#d9760c" stroke-width="4"/>
+    <line x1="240" y1="255" x2="240" y2="395" stroke="#d9760c" stroke-width="4"/>
+    <line x1="300" y1="255" x2="312" y2="395" stroke="#d9760c" stroke-width="4"/>
+    <!-- мусор -->
+    <path d="M150 250 q40 -30 80 -10 q40 -25 90 0 q20 -15 40 10 Z" fill="#9aa6bb"/>
+  </g>
+
+  <!-- Грузовик -->
+  <g>
+    <rect x="400" y="300" width="170" height="90" rx="6" fill="#e7ecf3"/>
+    <path d="M570 320 h60 l30 40 v30 h-90 Z" fill="#bcd0ee"/>
+    <rect x="585" y="330" width="35" height="24" rx="3" fill="#1f4b8e"/>
+    <circle cx="445" cy="400" r="26" fill="#0f1a2b"/>
+    <circle cx="445" cy="400" r="11" fill="#5a6b86"/>
+    <circle cx="610" cy="400" r="26" fill="#0f1a2b"/>
+    <circle cx="610" cy="400" r="11" fill="#5a6b86"/>
+  </g>
+
+  <text x="360" y="490" text-anchor="middle" font-family="Montserrat, sans-serif" font-size="26" font-weight="800" fill="#ffffff">Вывоз мусора · Калининград</text>
+</svg>

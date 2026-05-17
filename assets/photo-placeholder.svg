@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Плейсхолдер фото — заменить">
+  <rect width="400" height="300" fill="#e3e8ef"/>
+  <rect x="1" y="1" width="398" height="298" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="8 6"/>
+  <g fill="#9aa6bb">
+    <circle cx="150" cy="120" r="26"/>
+    <path d="M90 230 l60 -70 45 45 55 -65 70 90 Z"/>
+  </g>
+  <text x="200" y="270" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#c0392b">ЗАМЕНИТЬ НА ФОТО</text>
+</svg>
